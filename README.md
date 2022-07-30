@@ -1,6 +1,6 @@
-# Telegram-Name-Updating
+# Telegram-Name-Updating(Telegram名字实时显示时间)
 
-Update (first/last/user) name of Telegram user every 30 seconds. 
+Update (first/last/user) name of Telegram user every 30 seconds. (每30秒更新一次Telegram用户（第一个/最后一个/用户）名称。)
 
 参考文档：<a href="https://telethon.readthedocs.io/en/stable/">Telethon</a>
 
