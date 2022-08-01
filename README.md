@@ -26,6 +26,6 @@ Create an appï¼š<a href="https://my.telegram.org/">https://my.telegram.org/</a>ã
 
 Enter api_id and api_hash as prompted.  Then enter the mobile phone number and verification code. If the account has enabled secondary verification, please enter the secondary verification password according to the prompts.  Finally seeing It works! indicates success.  The default is to update lastname to a specific mode with a certain probability every 30 seconds.
 
-## 5. Temporarily CTRL+C to end the applet and re-hang it to run in the background
+## 5. Temporarily <code>CTRL+C</code> to end the applet and re-hang it to run in the background
 
 <code>nohup python3 tg_username_update.py &</code>
