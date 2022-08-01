@@ -11,7 +11,7 @@ Operating environment：VPS，python3，python3-pip
 Create an app：<a href="https://my.telegram.org/">https://my.telegram.org/</a>。Just fill in the App title and Short name.  Get api_id and api_hash.
 ## 1. Download the Demo applet to the VPS
 
-<code>git clone https://github.com/8838/Telegram-Name-Updating.git</code>
+<code>git clone https://github.com/8838/Telegram-Name-Updating.git</code>\
 <code>cd Telegram-Name-Updating</code>
 
 ## 2. Install telethon
